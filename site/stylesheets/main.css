@@ -116,16 +116,25 @@ textarea {
 }
 
 @font-face {
-  font-family: chitown;
-  src: url(../fonts/chi-town.bold.ttf);
-}
-
-@font-face {
   font-family: ritzyremix;
   src: url(../fonts/ritzyremix.regular.ttf);
 }
 
-#logo {
+#logo1 {
+  width: 100%;
+  text-align: center;
+  font-family: copasetic;
+  font-size: 48px;
+}
+
+#logo2 {
+  width: 100%;
+  text-align: center;
+  font-family: chitown;
+  font-size: 48px;
+}
+
+#logo3 {
   width: 100%;
   text-align: center;
   font-family: ritzyremix;
